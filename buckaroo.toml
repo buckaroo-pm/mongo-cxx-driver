@@ -1,0 +1,7 @@
+[[dependency]]
+package = "github.com/buckaroo-pm/mongo-c-driver"
+version = "*"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/openssl"
+version = "tag=1.0.2p"
