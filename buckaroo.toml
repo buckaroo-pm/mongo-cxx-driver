@@ -1,3 +1,5 @@
+targets = [ "//:bsoncxx", "//:mongocxx" ]
+
 [[dependency]]
 package = "github.com/buckaroo-pm/mongo-c-driver"
 version = "*"
